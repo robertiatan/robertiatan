@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertiatan
-- 👀 I’m interested in become a developer.
+- 👀 I’m interested in becoming a developer.
 - 🌱 I’m currently learning full stack web developement.
 - 💞️ I’m looking to grow my connections in the developement space.
 - 📫 How to reach me: https://www.linkedin.com/in/robertiatan/
