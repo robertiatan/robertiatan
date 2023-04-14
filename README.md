@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertiatan" alt="robertiatan" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development at the University of Toronto School of Continuing Studies Bootcamp**
+- 🌱 Completed **Full-Stack Web Development at the University of Toronto School of Continuing Studies Bootcamp**
 
 - 👨‍💻 All of my projects are available at [https://robertiatan.github.io/portfolio/](https://robertiatan.github.io/portfolio/)
 
